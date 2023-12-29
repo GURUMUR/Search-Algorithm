@@ -103,10 +103,9 @@ else:
     
 ```
 ## Sample Input and Output
-![out1](image.png)
-![out2](image-1.png)
-![out3](image-2.png)
-
+![index_found](https://github.com/GURUMUR/Search-Algorithm/assets/144895197/0b176d97-ac0f-4938-9824-d4712f88d2ef)
+![iteration_method](https://github.com/GURUMUR/Search-Algorithm/assets/144895197/0fb0d5c5-9175-42c1-bde8-7c71f5e6c17f)
+![recurive_method](https://github.com/GURUMUR/Search-Algorithm/assets/144895197/0a321796-d119-465c-a5e3-8a59ed5ab778)
 
 
 ## Result
